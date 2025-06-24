@@ -20,4 +20,10 @@ All insights are derived using structured SQL queries, complemented by PowerPoin
 - **Techniques**: Aggregation, Grouping, Pivoting, Window Functions, Data Cleaning
 
 ---
+## 📁 Project Structure
 
+| File Name                                                 | Description                                      |
+|-----------------------------------------------------------|--------------------------------------------------|
+| `BlinkIT Grocery Data.csv`                                | Raw dataset used for analysis                    |
+| `Blinkit Grocery Sales Analysis.sql`                      | SQL scripts for cleaning and KPI analysis        |
+| `Blinkit Analysis--BUSINESS REQUIREMENTS.PDF`             | Insights and business requirements               |

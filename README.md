@@ -26,4 +26,4 @@ All insights are derived using structured SQL queries, complemented by PowerPoin
 |-----------------------------------------------------------|--------------------------------------------------|
 | `BlinkIT Grocery Data.csv`                                | Raw dataset used for analysis                    |
 | `Blinkit Grocery Sales Analysis.sql`                      | SQL scripts for cleaning and KPI analysis        |
-| `Blinkit Analysis--BUSINESS REQUIREMENTS.PDF`             | Insights and business requirements               |
+| `Blinkit Analysis--BUSINESS REQUIREMENTS.PDF`             | Business Requirements and Insights               |
